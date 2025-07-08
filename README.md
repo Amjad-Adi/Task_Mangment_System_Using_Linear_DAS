@@ -1,27 +1,48 @@
 # Task_Mangment_System_Using_Linear_DAS
 A C-based console app for managing tasks using linked lists and stack data structures.
-This system helps you manage and keep track of tasks you need to do, mark tasks as done, undo done tasks, and generate reports.
+ The system enables users to manage tasks through a combination of singly linked lists (for unperformed tasks) and stack data structures (for performed tasks), enabling full control over task scheduling, execution, and undo operations.
 
-Features
-Uses a linked list to store tasks you haven't done yet.
+The application is designed with a menu-driven interface that allows users to:
 
-Uses a stack to keep track of tasks you've completed (so you can undo if needed).
+Load tasks from a file.
 
-Search for tasks by ID or name in both lists.
+Add new tasks with unique IDs.
 
-Load tasks from a file and save reports back to a file.
+Delete existing tasks.
 
-Makes sure task IDs are unique to avoid confusion.
+Search tasks by ID or name in both unperformed and performed lists.
 
-Includes error checks to prevent crashes and invalid inputs.
+Perform tasks (move from unperformed list to performed stack).
 
-How It Works
-Tasks are stored as nodes in a linked list if not done.
+Undo tasks (move back from performed stack to unperformed list).
 
-When you perform a task, it moves to the stack of done tasks.
+View current tasks and export reports to a file (Report.txt).
 
-You can undo a task, which moves it back to the linked list.
+⚙️ Key Features:
+✅ Linked List: Stores and manages unperformed tasks dynamically.
 
-Search lets you find tasks quickly by ID or name.
+🔁 Stack (LIFO): Maintains a history of performed tasks to allow undoing operations.
 
-Reports summarize all your tasks into a text file.
+🔍 Search Functionality: Allows search by task ID or name across both task states.
+
+📄 File Input/Output: Supports reading tasks from a file (tasks.txt) and generating summary reports.
+
+❌ Duplicate ID Prevention: Enforces task ID uniqueness across both unperformed and performed tasks.
+
+🔒 Error Handling: Includes runtime checks for null pointers, memory allocation, and invalid input to prevent crashes.
+
+📂 Data Structures Used:
+struct TaskNode: Represents a task with fields for ID, name, date, duration, status, and pointer to the next task.
+
+LinkedList: A singly linked list for tasks yet to be performed.
+
+Stack: A stack implemented as a linked list for tasks that have been completed.
+
+🧪 Sample Operations:
+Add Task: Adds a new task to the end of the unperformed list.
+
+Perform Task: Moves a task to the performed stack.
+
+Undo Task: Pops a task from the stack and reinserts it into the unperformed list.
+
+Report Generation: Writes a categorized summary of tasks to a file.
