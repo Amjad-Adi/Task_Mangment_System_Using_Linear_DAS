@@ -1,0 +1,100 @@
+5#prepare presentation#8/4/2025#2.2
+76#shopping#31/3/2025#4.4
+95#do laundry#12/4/2025#1.1
+101#buy groceries#4/4/2025#4.3
+113#watch a movie#12/4/2025#2.7
+125#buy groceries#20/3/2025#3.5
+128#study COMP2421 course#20/3/2025#3.9
+132#clean the house#15/4/2025#4.5
+134#call mom#1/4/2025#1.7
+140#finish homework#18/4/2025#4.0
+142#call mom#20/3/2025#2.7
+156#submit project 1#24/3/2025#6.2
+166#buy groceries#26/3/2025#2.5
+168#submit project 1#1/4/2025#6.2
+181#finish homework#12/4/2025#2.7
+184#attend lecture#30/3/2025#6.2
+185#buy groceries#12/4/2025#3.9
+197#visit grandparents#22/3/2025#2.6
+198#read a book#16/4/2025#4.5
+231#meeting#3/4/2025#3.0
+233#watch a movie#24/3/2025#3.0
+245#submit project 1#5/4/2025#4.0
+260#prepare presentation#27/3/2025#2.8
+264#buy groceries#18/4/2025#4.5
+265#meeting#10/4/2025#2.4
+271#call mom#16/4/2025#3.0
+282#prepare presentation#29/3/2025#0.7
+283#walk the dog#7/4/2025#4.8
+288#meeting#24/3/2025#5.3
+297#play football#15/4/2025#1.9
+307#submit project 1#12/4/2025#1.3
+329#shopping#31/3/2025#5.0
+330#meeting#24/3/2025#5.3
+341#meeting#28/3/2025#7.9
+345#finish homework#16/4/2025#6.9
+358#code C project#5/4/2025#6.5
+377#finish homework#6/4/2025#1.9
+426#exercise#9/4/2025#4.4
+428#submit project 1#31/3/2025#6.8
+430#attend lecture#28/3/2025#6.9
+435#do laundry#3/4/2025#6.7
+436#study COMP2421 course#27/3/2025#5.5
+438#go to gym#7/4/2025#6.6
+457#study COMP2421 course#8/4/2025#2.1
+482#do laundry#8/4/2025#3.1
+493#do laundry#12/4/2025#7.1
+497#visit grandparents#24/3/2025#3.7
+498#cook dinner#1/4/2025#2.3
+502#study COMP2421 course#12/4/2025#7.7
+505#watch a movie#30/3/2025#2.4
+516#go to gym#10/4/2025#6.3
+525#attend lecture#17/4/2025#6.5
+526#finish homework#27/3/2025#7.0
+527#study COMP2421 course#9/4/2025#4.4
+536#play football#1/4/2025#5.4
+544#watch a movie#6/4/2025#4.3
+549#prepare presentation#12/4/2025#6.8
+555#prepare presentation#24/3/2025#2.5
+562#watch a movie#13/4/2025#8.0
+564#exercise#31/3/2025#1.8
+566#walk the dog#28/3/2025#6.6
+575#visit grandparents#17/4/2025#0.8
+605#finish homework#12/4/2025#5.4
+623#finish homework#6/4/2025#2.0
+624#code C project#29/3/2025#0.6
+636#attend lecture#5/4/2025#1.8
+639#buy groceries#24/3/2025#5.2
+656#watch a movie#7/4/2025#0.9
+661#shopping#25/3/2025#1.6
+667#exercise#2/4/2025#0.6
+668#submit project 1#14/4/2025#4.8
+684#visit grandparents#16/4/2025#2.9
+690#call mom#30/3/2025#5.7
+691#do laundry#17/4/2025#6.7
+699#buy groceries#18/4/2025#3.1
+718#prepare presentation#8/4/2025#7.2
+720#attend lecture#10/4/2025#7.9
+756#call mom#15/4/2025#4.6
+765#clean the house#12/4/2025#5.0
+771#submit project 1#24/3/2025#5.3
+775#study COMP2421 course#26/3/2025#0.9
+780#go to gym#1/4/2025#3.7
+818#clean the house#7/4/2025#6.0
+851#attend lecture#21/3/2025#5.2
+859#cook dinner#12/4/2025#6.0
+866#read a book#23/3/2025#0.6
+875#meeting#20/3/2025#1.3
+884#prepare presentation#11/4/2025#7.7
+888#play football#12/4/2025#5.2
+900#code C project#8/4/2025#6.2
+912#submit project 1#21/3/2025#6.4
+923#go to gym#1/4/2025#3.4
+944#play football#20/3/2025#4.7
+955#visit grandparents#11/4/2025#2.4
+966#watch a movie#22/3/2025#2.3
+973#clean the house#2/4/2025#7.7
+974#shopping#6/4/2025#4.8
+986#shopping#16/4/2025#6.0
+994#shopping#12/4/2025#7.1
+995#cook dinner#9/4/2025#0.7

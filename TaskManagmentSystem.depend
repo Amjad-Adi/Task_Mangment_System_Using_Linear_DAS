@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748416932 source:c:\users\hp\desktop\data srutcture in c\taskmanagmentsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
