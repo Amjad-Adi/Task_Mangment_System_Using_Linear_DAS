@@ -1,4 +1,5 @@
-# Task_Mangment_System_Using_Linear_DAS
+# Task_Mangment_System_Using_Linear_DAS(10/10)
+![image](https://github.com/user-attachments/assets/a89082df-e387-4afe-959b-2bc14d07d15b)
 A C-based console app for managing tasks using linked lists and stack data structures.
  The system enables users to manage tasks through a combination of singly linked lists (for unperformed tasks) and stack data structures (for performed tasks), enabling full control over task scheduling, execution, and undo operations.
 
